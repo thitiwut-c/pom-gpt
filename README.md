@@ -2,11 +2,11 @@
 
 Parody of ChatGPT and a man whose wrist watches belong to his friends.
 
-## Quickstart
+## Getting started
 
-Open [index.html](index.html) in web browser
+Open [index.html](index.html) in web browser.
 
-## Contact
+## Author
 
 Thitiwut Chutipongwanit - thitiwut.chu@gmail.com
 
