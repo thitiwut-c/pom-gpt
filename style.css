@@ -82,3 +82,16 @@ body {
 		opacity: 1;
 	}
 }
+
+#guide-msg {
+	padding: .75em 2.5em;
+	background-color: #40414F;
+	color: #d9d9d9;
+	border-radius: .5em;
+}
+
+.guide-msg-container {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}

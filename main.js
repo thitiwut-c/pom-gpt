@@ -20,6 +20,9 @@ function handleMsgInputKeydown(ev) {
             return
         }
 
+        document.getElementById("guide-msg").remove()
+        document.getElementById("chat").setAttribute("class", "")
+
         const genRepMsg = randomReplyMsgGenerator()
         const userMsg = msgInputEl.value
 
